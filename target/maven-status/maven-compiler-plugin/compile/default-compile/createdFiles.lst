@@ -1,0 +1,5 @@
+com\mycompany\simplerest\resources\JavaEE8Resource.class
+com\mycompany\simplerest\entities\User.class
+com\mycompany\simplerest\repositories\UserRepository.class
+com\mycompany\simplerest\resources\UsersControllers.class
+com\mycompany\simplerest\JAXRSConfiguration.class
